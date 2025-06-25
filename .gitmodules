@@ -1,0 +1,6 @@
+[submodule "Javapo"]
+	path = Javapo
+	url = https://github.com/fsgames27/Java_CDD.git
+[submodule "Java_CDD"]
+	path = Java_CDD
+	url = https://github.com/fsgames27/Java_CDD.git
